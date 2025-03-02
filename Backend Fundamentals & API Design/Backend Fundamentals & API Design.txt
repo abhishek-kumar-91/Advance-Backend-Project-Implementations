@@ -1,0 +1,6 @@
+Topic: Backend Fundamentals & API Design
+Details: Node.js + Express.js (Middlewares, Error Handling, Rate Limiting)
+JWT Authentication (Login, Signup, Refresh Token, Role-Based Auth)
+Database Design (MongoDB, Prisma, PostgreSQL)
+Caching & Optimization (Redis, Indexing, Query Optimization)
+Task: Build User Authentication API, Implement Rate Limiting
