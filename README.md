@@ -1,6 +1,6 @@
 [10-Day_Backend_System_Design_Plan.pdf](https://github.com/user-attachments/files/19041949/10-Day_Backend_System_Design_Plan.pdf)
 
-
+I will continue in some days
 #  Backend & System Design Implementation
 
 This repository showcases the implementation of advanced backend and system design concepts learned and applied over 10 days. Each section below explains the concepts implemented and links to the relevant project.
